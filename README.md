@@ -18,7 +18,7 @@ The Computer Vision-Enhanced Waste Sorting Assistant is a machine learning-power
 
 - Xinyi Wang - [GitHub Profile](https://github.com/thisissophiawang)
 - Yijie Cao - [GitHub Profile](https://github.com/96philly)
-- Min Ren 
+- Min Ren [GitHub Profile](https://github.com/vrm999)
 
 
 ## 🎯 Project Structure
