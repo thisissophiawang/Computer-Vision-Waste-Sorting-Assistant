@@ -154,11 +154,14 @@ The model demonstrated high detection accuracy and efficiency across various sce
 
 4. **Visualization**  
    - The **Gradio dashboard** offers detailed performance tracking and interactive waste analysis tools.  
-   - Example charts include classification accuracy trends, recycling rates, and monthly waste tonnage distribution.  
+    - Example charts include classification accuracy trends, recycling rates, and monthly waste tonnage distribution.  
 
-   ![Example Dashboard](assets/images/pie(burnaby).webp)
-   (assets/images/average_classification_accuracy.webp)
-   (assets/images/monthly total(burnaby).webp )
+   ![Example Dashboard - Pie Chart](assets/images/pie(burnaby).webp)
+
+   ![Example Dashboard - Classification Accuracy](assets/images/average_classification_accuracy.webp)
+
+   ![Example Dashboard - Monthly Total](assets/images/monthly_total(burnaby).webp)
+
 
     
 
