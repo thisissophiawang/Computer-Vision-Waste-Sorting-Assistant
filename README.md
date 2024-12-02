@@ -160,7 +160,7 @@ The model demonstrated high detection accuracy and efficiency across various sce
 
    ![Example Dashboard - Classification Accuracy](assets/images/average_classification_accuracy.webp)
 
-   ![Example Dashboard - Monthly Total](assets/images/monthly_total(burnaby).webp)
+   ![Example Dashboard - Monthly Total](assets/images/monthly_total.webp)
 
 
     
