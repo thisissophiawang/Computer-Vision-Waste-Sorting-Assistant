@@ -205,11 +205,6 @@ If you find this project helpful, please consider citing:
 }
 ```
 
-This project is a comprehensive explanation and implementation of the Swin Transformer architecture, created by Team Optical Flow:
-- Jinghan Gao
-- Calvin Lo
-- Xinyi Wang
-
 For academic use, please ensure to cite both the original work and our educational materials appropriately.
 }
 ```
