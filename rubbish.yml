@@ -1,0 +1,12 @@
+ 
+# 训练集35张图片所在的文件夹  即train文件夹
+train: E:\an\data\yolo_rubbish\images\train
+ 
+# 验证集6张图片所在的文件集   即val文件夹
+val: E:\an\data\yolo_rubbish\images\val
+ 
+# 数据集分类的数量，比如数据集一共有 垃圾袋（bag）、瓶子（bottle）、电池（battery）鞋子（shoe）等4种东西，那nc的值等于4
+ 
+nc: 4
+#  names  表示名称，这里写出其每个名称
+names: ['recyclable', 'hazardous', 'kitchen', 'other']

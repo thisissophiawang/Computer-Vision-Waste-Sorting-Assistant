@@ -1,0 +1,385 @@
+Year,Month,Waste_Type,Location(city),Monthly_Total_Tonnes,Classification_Accuracy,Recycling_Rate
+2023,1,Glass,Burnaby,2850,95.2,88.5
+2023,1,Metal,Burnaby,3240,92.8,85.4
+2023,1,Paper,Burnaby,5670,90.5,82.3
+2023,1,Plastic,Burnaby,6780,88.9,80.2
+2023,1,Recyclable Waste,Burnaby,4320,91.2,84.6
+2023,1,Hazardous Waste,Burnaby,1560,96.5,78.9
+2023,1,Kitchen Waste,Burnaby,7890,89.8,82.4
+2023,1,Other Waste,Burnaby,2340,85.6,75.8
+2023,1,Glass,Coquitlam,2650,94.9,88.1
+2023,1,Metal,Coquitlam,3040,92.7,85.0
+2023,1,Paper,Coquitlam,5470,90.4,82.2
+2023,1,Plastic,Coquitlam,6580,88.8,80.1
+2023,1,Recyclable Waste,Coquitlam,4120,91.3,84.5
+2023,1,Hazardous Waste,Coquitlam,1460,96.4,78.8
+2023,1,Kitchen Waste,Coquitlam,7690,89.7,82.3
+2023,1,Other Waste,Coquitlam,2240,85.5,75.7
+2023,1,Glass,Surrey,2450,94.5,87.6
+2023,1,Metal,Surrey,2940,92.4,84.7
+2023,1,Paper,Surrey,4970,89.9,81.6
+2023,1,Plastic,Surrey,5780,88.2,79.5
+2023,1,Recyclable Waste,Surrey,3820,90.7,83.9
+2023,1,Hazardous Waste,Surrey,1560,95.9,78.2
+2023,1,Kitchen Waste,Surrey,6890,89.2,81.7
+2023,1,Other Waste,Surrey,2240,84.9,75.1
+2023,1,Glass,Richmond,2250,94.4,87.5
+2023,1,Metal,Richmond,2740,92.3,84.6
+2023,1,Paper,Richmond,4770,89.8,81.5
+2023,1,Plastic,Richmond,5580,88.1,79.4
+2023,1,Recyclable Waste,Richmond,3620,90.6,83.8
+2023,1,Hazardous Waste,Richmond,1360,95.8,78.1
+2023,1,Kitchen Waste,Richmond,6690,89.1,81.6
+2023,1,Other Waste,Richmond,2040,84.8,75.0
+2023,2,Glass,Burnaby,2870,95.3,88.6
+2023,2,Metal,Burnaby,3280,93.0,85.6
+2023,2,Paper,Burnaby,5720,90.7,82.5
+2023,2,Plastic,Burnaby,6820,89.1,80.4
+2023,2,Recyclable Waste,Burnaby,4380,91.4,84.8
+2023,2,Hazardous Waste,Burnaby,1590,96.7,79.1
+2023,2,Kitchen Waste,Burnaby,7920,90.0,82.6
+2023,2,Other Waste,Burnaby,2380,85.8,76.0
+2023,2,Glass,Coquitlam,2670,95.1,88.3
+2023,2,Metal,Coquitlam,3080,92.9,85.2
+2023,2,Paper,Coquitlam,5520,90.6,82.4
+2023,2,Plastic,Coquitlam,6620,89.0,80.3
+2023,2,Recyclable Waste,Coquitlam,4160,91.5,84.7
+2023,2,Hazardous Waste,Coquitlam,1490,96.6,79.0
+2023,2,Kitchen Waste,Coquitlam,7720,89.9,82.5
+2023,2,Other Waste,Coquitlam,2280,85.7,75.9
+2023,2,Glass,Surrey,2470,94.7,87.8
+2023,2,Metal,Surrey,2980,92.6,84.9
+2023,2,Paper,Surrey,5020,90.1,81.8
+2023,2,Plastic,Surrey,5820,88.4,79.7
+2023,2,Recyclable Waste,Surrey,3860,90.9,84.1
+2023,2,Hazardous Waste,Surrey,1590,96.1,78.4
+2023,2,Kitchen Waste,Surrey,6920,89.4,81.9
+2023,2,Other Waste,Surrey,2280,85.1,75.3
+2023,2,Glass,Richmond,2270,94.6,87.7
+2023,2,Metal,Richmond,2780,92.5,84.8
+2023,2,Paper,Richmond,4820,90.0,81.7
+2023,2,Plastic,Richmond,5620,88.3,79.6
+2023,2,Recyclable Waste,Richmond,3660,90.8,84.0
+2023,2,Hazardous Waste,Richmond,1390,96.0,78.3
+2023,2,Kitchen Waste,Richmond,6720,89.3,81.8
+2023,2,Other Waste,Richmond,2080,85.0,75.2
+2023,3,Glass,Burnaby,2890,95.4,88.7
+2023,3,Metal,Burnaby,3320,93.1,85.7
+2023,3,Paper,Burnaby,5770,90.8,82.6
+2023,3,Plastic,Burnaby,6860,89.2,80.5
+2023,3,Recyclable Waste,Burnaby,4420,91.5,84.9
+2023,3,Hazardous Waste,Burnaby,1620,96.8,79.2
+2023,3,Kitchen Waste,Burnaby,7950,90.1,82.7
+2023,3,Other Waste,Burnaby,2420,85.9,76.1
+2023,3,Glass,Coquitlam,2690,95.2,88.4
+2023,3,Metal,Coquitlam,3120,93.0,85.3
+2023,3,Paper,Coquitlam,5570,90.7,82.5
+2023,3,Plastic,Coquitlam,6660,89.1,80.4
+2023,3,Recyclable Waste,Coquitlam,4200,91.6,84.8
+2023,3,Hazardous Waste,Coquitlam,1520,96.7,79.1
+2023,3,Kitchen Waste,Coquitlam,7750,90.0,82.6
+2023,3,Other Waste,Coquitlam,2320,85.8,76.0
+2023,3,Glass,Surrey,2490,94.8,87.9
+2023,3,Metal,Surrey,3020,92.7,85.0
+2023,3,Paper,Surrey,5070,90.2,81.9
+2023,3,Plastic,Surrey,5860,88.5,79.8
+2023,3,Recyclable Waste,Surrey,3900,91.0,84.2
+2023,3,Hazardous Waste,Surrey,1620,96.2,78.5
+2023,3,Kitchen Waste,Surrey,6950,89.5,82.0
+2023,3,Other Waste,Surrey,2320,85.2,75.4
+2023,3,Glass,Richmond,2290,94.7,87.8
+2023,3,Metal,Richmond,2820,92.6,84.9
+2023,3,Paper,Richmond,4870,90.1,81.8
+2023,3,Plastic,Richmond,5660,88.4,79.7
+2023,3,Recyclable Waste,Richmond,3700,90.9,84.1
+2023,3,Hazardous Waste,Richmond,1420,96.1,78.4
+2023,3,Kitchen Waste,Richmond,6750,89.4,81.9
+2023,3,Other Waste,Richmond,2120,85.1,75.3
+2023,4,Glass,Burnaby,2910,95.5,88.8
+2023,4,Metal,Burnaby,3340,93.2,85.8
+2023,4,Paper,Burnaby,5820,90.9,82.7
+2023,4,Plastic,Burnaby,6900,89.3,80.6
+2023,4,Recyclable Waste,Burnaby,4460,91.6,85.0
+2023,4,Hazardous Waste,Burnaby,1650,96.9,79.3
+2023,4,Kitchen Waste,Burnaby,7980,90.2,82.8
+2023,4,Other Waste,Burnaby,2460,86.0,76.2
+2023,4,Glass,Coquitlam,2710,95.3,88.5
+2023,4,Metal,Coquitlam,3160,93.1,85.4
+2023,4,Paper,Coquitlam,5620,90.8,82.6
+2023,4,Plastic,Coquitlam,6700,89.2,80.5
+2023,4,Recyclable Waste,Coquitlam,4240,91.7,84.9
+2023,4,Hazardous Waste,Coquitlam,1550,96.8,79.2
+2023,4,Kitchen Waste,Coquitlam,7780,90.1,82.7
+2023,4,Other Waste,Coquitlam,2360,85.9,76.1
+2023,4,Glass,Surrey,2510,94.9,88.0
+2023,4,Metal,Surrey,3060,92.8,85.1
+2023,4,Paper,Surrey,5120,90.3,82.0
+2023,4,Plastic,Surrey,5900,88.6,79.9
+2023,4,Recyclable Waste,Surrey,3940,91.1,84.3
+2023,4,Hazardous Waste,Surrey,1650,96.3,78.6
+2023,4,Kitchen Waste,Surrey,6980,89.6,82.1
+2023,4,Other Waste,Surrey,2360,85.3,75.5
+2023,4,Glass,Richmond,2310,94.8,87.9
+2023,4,Metal,Richmond,2860,92.7,85.0
+2023,4,Paper,Richmond,4920,90.2,81.9
+2023,4,Plastic,Richmond,5700,88.5,79.8
+2023,4,Recyclable Waste,Richmond,3740,91.0,84.2
+2023,4,Hazardous Waste,Richmond,1450,96.2,78.5
+2023,4,Kitchen Waste,Richmond,6780,89.5,82.0
+2023,4,Other Waste,Richmond,2160,85.2,75.4
+2023,5,Glass,Burnaby,2930,95.6,88.9
+2023,5,Metal,Burnaby,3360,93.3,85.9
+2023,5,Paper,Burnaby,5870,91.0,82.8
+2023,5,Plastic,Burnaby,6940,89.4,80.7
+2023,5,Recyclable Waste,Burnaby,4500,91.7,85.1
+2023,5,Hazardous Waste,Burnaby,1680,97.0,79.4
+2023,5,Kitchen Waste,Burnaby,8010,90.3,82.9
+2023,5,Other Waste,Burnaby,2500,86.1,76.3
+2023,5,Glass,Coquitlam,2730,95.4,88.6
+2023,5,Metal,Coquitlam,3200,93.2,85.5
+2023,5,Paper,Coquitlam,5670,90.9,82.7
+2023,5,Plastic,Coquitlam,6740,89.3,80.6
+2023,5,Recyclable Waste,Coquitlam,4280,91.8,85.0
+2023,5,Hazardous Waste,Coquitlam,1580,96.9,79.3
+2023,5,Kitchen Waste,Coquitlam,7810,90.2,82.8
+2023,5,Other Waste,Coquitlam,2400,86.0,76.2
+2023,5,Glass,Surrey,2530,95.0,88.1
+2023,5,Metal,Surrey,3100,92.9,85.2
+2023,5,Paper,Surrey,5170,90.4,82.1
+2023,5,Plastic,Surrey,5940,88.7,80.0
+2023,5,Recyclable Waste,Surrey,3980,91.2,84.4
+2023,5,Hazardous Waste,Surrey,1680,96.4,78.7
+2023,5,Kitchen Waste,Surrey,7010,89.7,82.2
+2023,5,Other Waste,Surrey,2400,85.4,75.6
+2023,5,Glass,Richmond,2330,94.9,88.0
+2023,5,Metal,Richmond,2900,92.8,85.1
+2023,5,Paper,Richmond,4970,90.3,82.0
+2023,5,Plastic,Richmond,5740,88.6,79.9
+2023,5,Recyclable Waste,Richmond,3780,91.1,84.3
+2023,5,Hazardous Waste,Richmond,1480,96.3,78.6
+2023,5,Kitchen Waste,Richmond,6810,89.6,82.1
+2023,5,Other Waste,Richmond,2200,85.3,75.5
+2023,6,Glass,Burnaby,2950,95.7,89.0
+2023,6,Metal,Burnaby,3380,93.4,86.0
+2023,6,Paper,Burnaby,5920,91.1,82.9
+2023,6,Plastic,Burnaby,6980,89.5,80.8
+2023,6,Recyclable Waste,Burnaby,4540,91.8,85.2
+2023,6,Hazardous Waste,Burnaby,1710,97.1,79.5
+2023,6,Kitchen Waste,Burnaby,8040,90.4,83.0
+2023,6,Other Waste,Burnaby,2540,86.2,76.4
+2023,6,Glass,Coquitlam,2750,95.5,88.7
+2023,6,Metal,Coquitlam,3240,93.3,85.6
+2023,6,Paper,Coquitlam,5720,91.0,82.8
+2023,6,Plastic,Coquitlam,6780,89.4,80.7
+2023,6,Recyclable Waste,Coquitlam,4320,91.9,85.1
+2023,6,Hazardous Waste,Coquitlam,1610,97.0,79.4
+2023,6,Kitchen Waste,Coquitlam,7840,90.3,82.9
+2023,6,Other Waste,Coquitlam,2440,86.1,76.3
+2023,6,Glass,Surrey,2550,95.1,88.2
+2023,6,Metal,Surrey,3140,93.0,85.3
+2023,6,Paper,Surrey,5220,90.5,82.2
+2023,6,Plastic,Surrey,5980,88.8,80.1
+2023,6,Recyclable Waste,Surrey,4020,91.3,84.5
+2023,6,Hazardous Waste,Surrey,1710,96.5,78.8
+2023,6,Kitchen Waste,Surrey,7040,89.8,82.3
+2023,6,Other Waste,Surrey,2440,85.5,75.7
+2023,6,Glass,Richmond,2350,95.0,88.1
+2023,6,Metal,Richmond,2940,92.9,85.2
+2023,6,Paper,Richmond,5020,90.4,82.1
+2023,6,Plastic,Richmond,5780,88.7,80.0
+2023,6,Recyclable Waste,Richmond,3820,91.2,84.4
+2023,6,Hazardous Waste,Richmond,1510,96.4,78.7
+2023,6,Kitchen Waste,Richmond,6840,89.7,82.2
+2023,6,Other Waste,Richmond,2240,85.4,75.6
+2023,7,Glass,Burnaby,2970,95.8,89.1
+2023,7,Metal,Burnaby,3400,93.5,86.1
+2023,7,Paper,Burnaby,5970,91.2,83.0
+2023,7,Plastic,Burnaby,7020,89.6,80.9
+2023,7,Recyclable Waste,Burnaby,4580,91.9,85.3
+2023,7,Hazardous Waste,Burnaby,1740,97.2,79.6
+2023,7,Kitchen Waste,Burnaby,8070,90.5,83.1
+2023,7,Other Waste,Burnaby,2580,86.3,76.5
+2023,7,Glass,Coquitlam,2770,95.6,88.8
+2023,7,Metal,Coquitlam,3280,93.4,85.7
+2023,7,Paper,Coquitlam,5770,91.1,82.9
+2023,7,Plastic,Coquitlam,6820,89.5,80.8
+2023,7,Recyclable Waste,Coquitlam,4360,92.0,85.2
+2023,7,Hazardous Waste,Coquitlam,1640,97.1,79.5
+2023,7,Kitchen Waste,Coquitlam,7870,90.4,83.0
+2023,7,Other Waste,Coquitlam,2480,86.2,76.4
+2023,7,Glass,Surrey,2570,95.2,88.3
+2023,7,Metal,Surrey,3180,93.1,85.4
+2023,7,Paper,Surrey,5270,90.6,82.3
+2023,7,Plastic,Surrey,6020,88.9,80.2
+2023,7,Recyclable Waste,Surrey,4060,91.4,84.6
+2023,7,Hazardous Waste,Surrey,1740,96.6,78.9
+2023,7,Kitchen Waste,Surrey,7070,89.9,82.4
+2023,7,Other Waste,Surrey,2480,85.6,75.8
+2023,7,Glass,Richmond,2370,95.1,88.2
+2023,7,Metal,Richmond,2980,93.0,85.3
+2023,7,Paper,Richmond,5070,90.5,82.2
+2023,7,Plastic,Richmond,5820,88.8,80.1
+2023,7,Recyclable Waste,Richmond,3860,91.3,84.5
+2023,7,Hazardous Waste,Richmond,1540,96.5,78.8
+2023,7,Kitchen Waste,Richmond,6870,89.8,82.3
+2023,7,Other Waste,Richmond,2280,85.5,75.7
+2023,8,Glass,Burnaby,2990,95.9,89.2
+2023,8,Metal,Burnaby,3420,93.6,86.2
+2023,8,Paper,Burnaby,6020,91.3,83.1
+2023,8,Plastic,Burnaby,7060,89.7,81.0
+2023,8,Recyclable Waste,Burnaby,4620,92.0,85.4
+2023,8,Hazardous Waste,Burnaby,1770,97.3,79.7
+2023,8,Kitchen Waste,Burnaby,8100,90.6,83.2
+2023,8,Other Waste,Burnaby,2620,86.4,76.6
+2023,8,Glass,Coquitlam,2790,95.7,88.9
+2023,8,Metal,Coquitlam,3320,93.5,85.8
+2023,8,Paper,Coquitlam,5820,91.2,83.0
+2023,8,Plastic,Coquitlam,6860,89.6,80.9
+2023,8,Recyclable Waste,Coquitlam,4400,92.1,85.3
+2023,8,Hazardous Waste,Coquitlam,1670,97.2,79.6
+2023,8,Kitchen Waste,Coquitlam,7900,90.5,83.1
+2023,8,Other Waste,Coquitlam,2520,86.3,76.5
+2023,8,Glass,Surrey,2590,95.3,88.4
+2023,8,Metal,Surrey,3220,93.2,85.5
+2023,8,Paper,Surrey,5320,90.7,82.4
+2023,8,Plastic,Surrey,6060,89.0,80.3
+2023,8,Recyclable Waste,Surrey,4100,91.5,84.7
+2023,8,Hazardous Waste,Surrey,1770,96.7,79.0
+2023,8,Kitchen Waste,Surrey,7100,90.0,82.5
+2023,8,Other Waste,Surrey,2520,85.7,75.9
+2023,8,Glass,Richmond,2390,95.2,88.3
+2023,8,Metal,Richmond,3020,93.1,85.4
+2023,8,Paper,Richmond,5120,90.6,82.3
+2023,8,Plastic,Richmond,5860,88.9,80.2
+2023,8,Recyclable Waste,Richmond,3900,91.4,84.6
+2023,8,Hazardous Waste,Richmond,1570,96.6,78.9
+2023,8,Kitchen Waste,Richmond,6900,89.9,82.4
+2023,8,Other Waste,Richmond,2320,85.6,75.8
+2023,9,Glass,Burnaby,2960,95.8,89.1
+2023,9,Metal,Burnaby,3390,93.5,86.1
+2023,9,Paper,Burnaby,5980,91.2,83.0
+2023,9,Plastic,Burnaby,7020,89.6,80.9
+2023,9,Recyclable Waste,Burnaby,4580,91.9,85.3
+2023,9,Hazardous Waste,Burnaby,1740,97.2,79.6
+2023,9,Kitchen Waste,Burnaby,8060,90.5,83.1
+2023,9,Other Waste,Burnaby,2580,86.3,76.5
+2023,9,Glass,Coquitlam,2760,95.6,88.8
+2023,9,Metal,Coquitlam,3290,93.4,85.7
+2023,9,Paper,Coquitlam,5780,91.1,82.9
+2023,9,Plastic,Coquitlam,6820,89.5,80.8
+2023,9,Recyclable Waste,Coquitlam,4360,92.0,85.2
+2023,9,Hazardous Waste,Coquitlam,1640,97.1,79.5
+2023,9,Kitchen Waste,Coquitlam,7860,90.4,83.0
+2023,9,Other Waste,Coquitlam,2480,86.2,76.4
+2023,9,Glass,Surrey,2560,95.2,88.3
+2023,9,Metal,Surrey,3190,93.1,85.4
+2023,9,Paper,Surrey,5280,90.6,82.3
+2023,9,Plastic,Surrey,6020,88.9,80.2
+2023,9,Recyclable Waste,Surrey,4060,91.4,84.6
+2023,9,Hazardous Waste,Surrey,1740,96.6,78.9
+2023,9,Kitchen Waste,Surrey,7060,89.9,82.4
+2023,9,Other Waste,Surrey,2480,85.6,75.8
+2023,9,Glass,Richmond,2360,95.1,88.2
+2023,9,Metal,Richmond,2990,93.0,85.3
+2023,9,Paper,Richmond,5080,90.5,82.2
+2023,9,Plastic,Richmond,5820,88.8,80.1
+2023,9,Recyclable Waste,Richmond,3860,91.3,84.5
+2023,9,Hazardous Waste,Richmond,1540,96.5,78.8
+2023,9,Kitchen Waste,Richmond,6860,89.8,82.3
+2023,9,Other Waste,Richmond,2280,85.5,75.7
+2023,10,Glass,Burnaby,2920,95.7,89.0
+2023,10,Metal,Burnaby,3350,93.4,86.0
+2023,10,Paper,Burnaby,5920,91.1,82.9
+2023,10,Plastic,Burnaby,6960,89.5,80.8
+2023,10,Recyclable Waste,Burnaby,4520,91.8,85.2
+2023,10,Hazardous Waste,Burnaby,1700,97.1,79.5
+2023,10,Kitchen Waste,Burnaby,8000,90.4,83.0
+2023,10,Other Waste,Burnaby,2540,86.2,76.4
+2023,10,Glass,Coquitlam,2720,95.5,88.7
+2023,10,Metal,Coquitlam,3250,93.3,85.6
+2023,10,Paper,Coquitlam,5720,91.0,82.8
+2023,10,Plastic,Coquitlam,6760,89.4,80.7
+2023,10,Recyclable Waste,Coquitlam,4300,91.9,85.1
+2023,10,Hazardous Waste,Coquitlam,1600,97.0,79.4
+2023,10,Kitchen Waste,Coquitlam,7800,90.3,82.9
+2023,10,Other Waste,Coquitlam,2440,86.1,76.3
+2023,10,Glass,Surrey,2520,95.1,88.2
+2023,10,Metal,Surrey,3150,93.0,85.3
+2023,10,Paper,Surrey,5220,90.5,82.2
+2023,10,Plastic,Surrey,5960,88.8,80.1
+2023,10,Recyclable Waste,Surrey,4000,91.3,84.5
+2023,10,Hazardous Waste,Surrey,1700,96.5,78.8
+2023,10,Kitchen Waste,Surrey,7000,89.8,82.3
+2023,10,Other Waste,Surrey,2440,85.5,75.7
+2023,10,Glass,Richmond,2320,95.0,88.1
+2023,10,Metal,Richmond,2950,92.9,85.2
+2023,10,Paper,Richmond,5020,90.4,82.1
+2023,10,Plastic,Richmond,5760,88.7,80.0
+2023,10,Recyclable Waste,Richmond,3800,91.2,84.4
+2023,10,Hazardous Waste,Richmond,1500,96.4,78.7
+2023,10,Kitchen Waste,Richmond,6800,89.7,82.2
+2023,10,Other Waste,Richmond,2240,85.4,75.6
+2023,11,Glass,Burnaby,2880,95.6,88.9
+2023,11,Metal,Burnaby,3310,93.3,85.9
+2023,11,Paper,Burnaby,5870,91.0,82.8
+2023,11,Plastic,Burnaby,6920,89.4,80.7
+2023,11,Recyclable Waste,Burnaby,4480,91.7,85.1
+2023,11,Hazardous Waste,Burnaby,1670,97.0,79.4
+2023,11,Kitchen Waste,Burnaby,7950,90.3,82.9
+2023,11,Other Waste,Burnaby,2500,86.1,76.3
+2023,11,Glass,Coquitlam,2680,95.4,88.6
+2023,11,Metal,Coquitlam,3210,93.2,85.5
+2023,11,Paper,Coquitlam,5670,90.9,82.7
+2023,11,Plastic,Coquitlam,6720,89.3,80.6
+2023,11,Recyclable Waste,Coquitlam,4260,91.8,85.0
+2023,11,Hazardous Waste,Coquitlam,1570,96.9,79.3
+2023,11,Kitchen Waste,Coquitlam,7750,90.2,82.8
+2023,11,Other Waste,Coquitlam,2400,86.0,76.2
+2023,11,Glass,Surrey,2480,95.0,88.1
+2023,11,Metal,Surrey,3110,92.9,85.2
+2023,11,Paper,Surrey,5170,90.4,82.1
+2023,11,Plastic,Surrey,5920,88.7,80.0
+2023,11,Recyclable Waste,Surrey,3960,91.2,84.4
+2023,11,Hazardous Waste,Surrey,1670,96.4,78.7
+2023,11,Kitchen Waste,Surrey,6950,89.7,82.2
+2023,11,Other Waste,Surrey,2400,85.4,75.6
+2023,11,Glass,Richmond,2280,94.9,88.0
+2023,11,Metal,Richmond,2910,92.8,85.1
+2023,11,Paper,Richmond,4970,90.3,82.0
+2023,11,Plastic,Richmond,5720,88.6,79.9
+2023,11,Recyclable Waste,Richmond,3760,91.1,84.3
+2023,11,Hazardous Waste,Richmond,1470,96.3,78.6
+2023,11,Kitchen Waste,Richmond,6750,89.6,82.1
+2023,11,Other Waste,Richmond,2200,85.3,75.5
+2023,12,Glass,Burnaby,2850,95.5,88.8
+2023,12,Metal,Burnaby,3280,93.2,85.8
+2023,12,Paper,Burnaby,5840,90.9,82.7
+2023,12,Plastic,Burnaby,6890,89.3,80.6
+2023,12,Recyclable Waste,Burnaby,4450,91.6,85.0
+2023,12,Hazardous Waste,Burnaby,1650,96.9,79.3
+2023,12,Kitchen Waste,Burnaby,7920,90.2,82.8
+2023,12,Other Waste,Burnaby,2470,86.0,76.2
+2023,12,Glass,Coquitlam,2650,95.3,88.5
+2023,12,Metal,Coquitlam,3180,93.1,85.4
+2023,12,Paper,Coquitlam,5640,90.8,82.6
+2023,12,Plastic,Coquitlam,6690,89.2,80.5
+2023,12,Recyclable Waste,Coquitlam,4230,91.7,84.9
+2023,12,Hazardous Waste,Coquitlam,1550,96.8,79.2
+2023,12,Kitchen Waste,Coquitlam,7720,90.1,82.7
+2023,12,Other Waste,Coquitlam,2370,85.9,76.1
+2023,12,Glass,Surrey,2450,94.9,88.0
+2023,12,Metal,Surrey,3080,92.8,85.1
+2023,12,Paper,Surrey,5140,90.3,82.0
+2023,12,Plastic,Surrey,5890,88.6,79.9
+2023,12,Recyclable Waste,Surrey,3930,91.1,84.3
+2023,12,Hazardous Waste,Surrey,1650,96.3,78.6
+2023,12,Kitchen Waste,Surrey,6920,89.6,82.1
+2023,12,Other Waste,Surrey,2370,85.3,75.5
+2023,12,Glass,Richmond,2250,94.8,87.9
+2023,12,Metal,Richmond,2880,92.7,85.0
+2023,12,Paper,Richmond,4940,90.2,81.9
+2023,12,Plastic,Richmond,5690,88.5,79.8
+2023,12,Recyclable Waste,Richmond,3730,91.0,84.2
+2023,12,Hazardous Waste,Richmond,1450,96.2,78.5
+2023,12,Kitchen Waste,Richmond,6720,89.5,82.0
+2023,12,Other Waste,Richmond,2170,85.2,75.4
